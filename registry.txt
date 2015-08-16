@@ -20,3 +20,7 @@ craft-tube Nk7y8
 cloud VkljN
 rocket 4kgBz
 craft-cone NkkEc
+craft-candle Ek8p2
+craft-fork 4JlL6
+craft-chair 4yZL6
+craft-bed VkfI6
