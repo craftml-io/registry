@@ -11,6 +11,7 @@ pig 4Jxyh
 craft-tag EyCr2
 craft-pencil 4kgRH
 craft-heart Vy-RS
+heart Vy-RS
 craft-weddingcake EkMCr
 craft-knife VJ1Ln
 craft-ring N1xkI
