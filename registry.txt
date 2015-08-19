@@ -42,11 +42,13 @@ door NkT5q
 dresser V1iGe
 egg Nyeb-
 fence 4yrMl
+gear 41nxG
 geoflower NJKR5
 glass NyNhg
 grid 4JZl9
 king NJDRq
 ladder VkPjc
+lego 4knsQ
 pan Eyxw7
 pawn VkXA5
 piano EkljJ
@@ -57,6 +59,7 @@ rocket 4kgBz
 rook VyECc
 shelf VyYGl
 sink Vyv6c
+snowflake 4y7gG
 snowman NJOsq
 squobe 4JgVG
 stove V1NTc
