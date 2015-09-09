@@ -37,6 +37,7 @@ cabinet N18be
 chain V15Cc
 chicken N1gRq
 cloud VkljN
+container 4kPke
 crate NyeJi
 danbo NkY_F
 diamond V1lkt
@@ -60,6 +61,7 @@ piano EkljJ
 piano-keys Nyose
 pig 4Jxyh
 pixel-anchor 41AZx
+pixel-fish 4y3Wx
 pixel-note 4Je-x
 queen EkUR5
 raindrop 4JXNW
