@@ -24,6 +24,7 @@ craft-spoon N1MyL
 craft-tag EyCr2
 craft-tube Nk7y8
 craft-weddingcake EkMCr
+accordion-spring E1eo-
 ark EklxU
 bacon VJeLi
 basket 41OP4
@@ -71,6 +72,8 @@ shelf VyYGl
 sink Vyv6c
 snowflake 4y7gG
 snowman NJOsq
+spiral-column 41UjM
+spring EJyRG
 squobe 4JgVG
 stove V1NTc
 star Vyenk
