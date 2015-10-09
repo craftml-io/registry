@@ -33,6 +33,7 @@ bishop NkB0q
 blueberry VJx9b
 bowl Vydaq
 burger VkgYe
+button E1_Mf
 cabin E1e0w
 cabinet N18be
 chain V15Cc
@@ -40,6 +41,7 @@ chicken N1gRq
 cloud VkljN
 container 4kPke
 crate NyeJi
+cup E1XOy
 danbo NkY_F
 diamond V1lkt
 door NkT5q
