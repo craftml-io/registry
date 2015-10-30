@@ -1,3 +1,4 @@
+# Layouts
 alternate-layout 4J588
 circle-layout VyzZw
 diagonal-layout EkeDu
@@ -82,6 +83,7 @@ star Vyenk
 strawberry NJxt_
 sun NyY1g
 table 4yOfe
+totem-base EJ9yU
 wheel 4yO_3
 window EkPzl
 woven-panel EkxEr
