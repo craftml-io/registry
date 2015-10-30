@@ -9,6 +9,8 @@ spiral-layout 4kTU0
 star-layout 4yUNw
 sun-layout E1g8V
 wave-layout EkWvO
+
+# Models
 craft-bed VkfI6
 craft-candle Ek8p2
 craft-chair 4yZL6
@@ -44,7 +46,6 @@ container 4kPke
 crate NyeJi
 cup E1XOy
 danbo NkY_F
-diamond V1lkt
 door NkT5q
 dresser V1iGe
 egg Nyeb-
@@ -55,6 +56,7 @@ gear 41nxG
 geoflower NJKR5
 glass NyNhg
 grid 4JZl9
+jewel V1lkt
 king NJDRq
 ladder VkPjc
 lamp 4kuTT
@@ -83,7 +85,18 @@ star Vyenk
 strawberry NJxt_
 sun NyY1g
 table 4yOfe
-totem-base EJ9yU
 wheel 4yO_3
 window EkPzl
 woven-panel EkxEr
+
+# Gearboxes
+doublecam-box N1wg0
+doublefriction-box VJRbB
+friction-box 4JEfn
+jumper-box 4keqX
+jumperwheel-box VJlTc
+pulley-box V1Omb
+slider-box N1n5p
+
+# Totem
+totem-base EJ9yU
