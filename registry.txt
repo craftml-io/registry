@@ -50,6 +50,7 @@ door NkT5q
 dresser V1iGe
 egg Nyeb-
 frame E1edH
+frame-round OQXUl
 fence 4yrMl
 gardening-sign EJxNQ
 gear 41nxG
@@ -80,6 +81,7 @@ snowman NJOsq
 spiral-column 41UjM
 spring EJyRG
 squobe 4JgVG
+stool V1bxm
 stove V1NTc
 star Vyenk
 strawberry NJxt_
