@@ -72,6 +72,7 @@ pig 4Jxyh
 pixel-anchor 41AZx
 pixel-fish 4y3Wx
 pixel-note 4Je-x
+plate NknJu
 queen EkUR5
 raindrop 4JXNW
 rocket 4kgBz
