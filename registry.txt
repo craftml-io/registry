@@ -46,6 +46,7 @@ container 4kPke
 crate NyeJi
 cube-round v3b8x
 cup E1XOy
+cylinder-cone NJfRJ
 danbo NkY_F
 door NkT5q
 dresser V1iGe
